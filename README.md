@@ -1,4 +1,4 @@
-# CustomerChurn
+# CustomerChurnPython
 Machine learning models to predict the customer churn behavior and their comparison
 (This project is carried in Jupyter Notebook using python programming language and several packages like matplotlib, pandas, numpy, sklearn, shap)
 
